@@ -113,7 +113,7 @@ void histograma(Imagem *img) {
 
 
 int main() {
-    Imagem *img = ler_pgm("rato.pgm");
+    Imagem *img = ler_pgm("moca.pgm");
 
 
     // Imprimindo os valores da matriz esparsa
